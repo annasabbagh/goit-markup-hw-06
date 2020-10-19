@@ -916,6 +916,8 @@ img {
     margin-right: 7px;
 }
 .modal-form-policy-message{
+    display: flex;
+    align-items: center;
     font-family: var(--main-font);
     font-weight: 400;
     font-size: 14px;
